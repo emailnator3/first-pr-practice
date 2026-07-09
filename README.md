@@ -4,7 +4,7 @@ A tiny sandbox repo for practicing the GitHub pull request workflow: branch, com
 
 ## What is this?
 
-This repo doesn't do anything — it excists purely so you can safely practice opening and merging a pull request without touching real code.
+This repo doesn't do anything — it exists purely so you can safely practice opening and merging a pull request without touching real code.
 
 ## Workflow
 
